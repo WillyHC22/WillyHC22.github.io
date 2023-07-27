@@ -2,8 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: The Hong Kong University of Science and Technology (HKUST), Hong Kong
-CentraleSupélec, Paris-Saclay University, France
+subtitle: The Hong Kong University of Science and Technology (HKUST), Hong Kong | CentraleSupélec, Paris-Saclay University, France
 
 profile:
   align: right
