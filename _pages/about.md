@@ -2,25 +2,25 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: The Hong Kong University of Science and Technology (HKUST), Hong Kong
+CentraleSupélec, Paris-Saclay University, France
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: GithubPP.png
   image_circular: false # crops the image to make it circular
-  address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  address: 
 
-news: true  # includes a list of news items
-latest_posts: true  # includes a list of the newest posts
+news: false  # includes a list of news items
+latest_posts: false  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a French engineering graduate with a specific interest in Natural Language Processing (NLP) and data science. I recently completed my dual degree program with a MPhil in Electronic and Computer engineering from [HKUST](https://hkust.edu.hk/), and a Master of Engineering in applied mathematics from [CentraleSupélec](https://www.centralesupelec.fr/).
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Before coming to Hong Kong, I was enrolled in CentraleSupélec where I got my Bachelor of Engineering and got introduced to programming and machine learning through interdisciplinary academic projects in astrophysics with the [MSSMat Laboratory](https://www.centralesupelec.fr/en/soil-structures-and-materials-mechanics-laboratory-mssmat-umr-cnrs-8579). From 2021 onwards, I joined HKUST and the [Center for Artificial Intelligence Research (CAiRE)](https://caire.ust.hk/) where my interest shifted towards Natural Language Processing (NLP) and Conversational AI, more specifically focusing on task-oriented dialogue systems and large language models. 
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+During my MPhil, I had the opportunity to collaborate in multiple meaningful research projects to provide assistance to healthcare and community care for the elderly in Hong Kong, such as a [Care Navigation Portal](https://portal.jcsmart.org/) for caregivers and local NGOs, a humanoid health care robot [Grace](https://www.youtube.com/watch?v=V2p99YPEPZk) for patients, and a virtual companion for elderly in retirement home.
+
+If you are interested to collaborate, please reach out to me!
