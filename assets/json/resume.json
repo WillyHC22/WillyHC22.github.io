@@ -92,10 +92,20 @@
       "fluency": "Intermediate"
     }
   ],
-  "interests": ["Basketball", "Astronomy", "Piano"],
+  "interests": [{"name":"Basketball"}, 
+                {"name":"Astronomy"}, 
+                {"name":"Piano"}],
   "references": [],
-  "projects": ["Virtual Well-being Companion with Emotion Detection Capability for Elderly People",
-               "Grace, Humanoid Robot as Occupational Therapist for Hospitals",
-               "Care Navigation Portal for Elderly and Caregivers in Hong Kong",
-               "AI-aided Asteroseismology: reproducing gravitational waves with machine learning"]
+  "projects": [{"name":"Virtual Well-being Companion with Emotion Detection Capability for Elderly People",
+                "startDate":"2022-06-01",
+                "endDate":""},
+               {"name":"Grace, Humanoid Robot as Occupational Therapist for Hospitals",
+                "startDate":"2022-02-01",
+                "endDate":""},
+               {"name":"Care Navigation Portal for Elderly and Caregivers in Hong Kong",
+                "startDate":"2021-12-01",
+                "endDate":""},
+               {"name":"AI-aided Asteroseismology: reproducing gravitational waves with machine learning",
+                "startDate":"2020-09-01",
+                "endDate":"2021-04-01"}]
 }
