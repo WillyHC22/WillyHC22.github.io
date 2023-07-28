@@ -10,7 +10,7 @@
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
+      "name": "Hong Kong University of Science and Technology",
       "position": "Teaching Assistant",
       "url": "https://hkust.edu.hk/",
       "startDate": "2022-01-01",
@@ -27,8 +27,8 @@
     {
       "institution": "Hong Kong University of Science and Technology, Hong Kong",
       "url": "https://hkust.edu.hk/",
-      "area": "Electronic and Computer Engineering",
-      "studyType": "MPhil",
+      "area": "Natural Language Processing, Dialogue systems",
+      "studyType": "MPhil in Electronic and Computer Engineering",
       "startDate": "2021-09-01",
       "endDate": "2023-07-29",
       "score": "",
@@ -42,7 +42,7 @@
       "institution": "CentraleSupélec, Paris-Saclay University, France",
       "url": "https://www.centralesupelec.fr/",
       "area": "Engineering - Applied Mathematics",
-      "studyType": "Master",
+      "studyType": "Master of Engineering - Applied Mathematics",
       "startDate": "2019-09-01",
       "endDate": "2021-07-31",
       "score": "3.97/4.33",
