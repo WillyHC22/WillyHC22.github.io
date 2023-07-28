@@ -22,11 +22,11 @@
       ]
     }
   ],
-  "volunteer": [{"name":"Secondary reviewer for EMNLP 2022",
+  "volunteer": [{"position":"Secondary reviewer for EMNLP 2022",
                  "organization":"EMNLP",
                  "startDate":"2022-09-01",
                  "endDate":"2022-09-02"}, 
-                {"name":"Elected Secretary General of the Astronomy Student Association",
+                {"position":"Elected Secretary General of the Astronomy Student Association",
                  "organization":"CosmiCS",
                  "startDate":"2020-10-01",
                  "endDate":"2021-07-31"}],
@@ -81,9 +81,11 @@
   "certificates": [],
   "publications": [],
   "skills": [{"name":"Advanced",
-              "items":["Python", "SQL", "Dialogflow"]},
+              "items":["Python", "SQL", "Dialogflow"],
+              "level":"Advanced"},
              {"name":"Intermediate",
-              "items":["MATLAB", "Docker", "MongoDB", "Microsoft Azure", "Google Cloud", "Neo4j", "SolidWorks"]}],
+              "items":["MATLAB", "Docker", "MongoDB", "Microsoft Azure", "Google Cloud", "Neo4j", "SolidWorks"],
+              "level":"Intermediate"}],
   "languages": [
     {
       "language": "French",
