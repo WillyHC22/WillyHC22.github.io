@@ -82,9 +82,10 @@
   "publications": [],
   "skills": [{"name":"Advanced",
               "items":["Python", "SQL", "Dialogflow"],
+              "keywords":["Python", "SQL", "Dialogflow"],
               "level":"Advanced"},
              {"name":"Intermediate",
-              "items":["MATLAB", "Docker", "MongoDB", "Microsoft Azure", "Google Cloud", "Neo4j", "SolidWorks"],
+              "items":["MATLAB", "Docker", "MongoDB", "Github", "Microsoft Azure", "Google Cloud", "Neo4j", "SolidWorks"],
               "level":"Intermediate"}],
   "languages": [
     {
