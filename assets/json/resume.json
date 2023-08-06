@@ -85,8 +85,8 @@
               "keywords":["Python", "SQL", "Dialogflow"],
               "level":"Advanced"},
              {"name":"Intermediate",
-              "items":["MATLAB", "Docker", "MongoDB", "Github", "Microsoft Azure", "Google Cloud", "Neo4j", "SolidWorks"],
-              "keywords":["MATLAB", "Docker", "MongoDB", "Github", "Microsoft Azure", "Google Cloud", "Neo4j", "SolidWorks"],
+              "items":["R", "Power BI", "MATLAB", "Docker", "MongoDB", "Github", "Microsoft Azure", "Google Cloud", "Neo4j", "SolidWorks"],
+              "keywords":["R", "Power BI", "MATLAB", "Docker", "MongoDB", "Github", "Microsoft Azure", "Google Cloud", "Neo4j", "SolidWorks"],
               "level":"Intermediate"}],
   "languages": [
     {
