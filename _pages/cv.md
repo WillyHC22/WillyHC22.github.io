@@ -4,6 +4,7 @@ permalink: /cv/
 title: cv
 nav: true
 nav_order: 4
-cv_pdf: CV.pdf
+cv_pdf: CV-EN.pdf
+cv_fr_pdf: CV-FR.pdf
 description: You can find my CV and some information about me here!
 ---
