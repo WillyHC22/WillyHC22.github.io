@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /publications/
-title: publications
-description: complete and up-to-date list of publications can be accessed via Google Scholar 
+title: Publications
+description: Complete and up-to-date list of publications can be accessed via Google Scholar (https://scholar.google.com/citations?user=y02ojzsAAAAJ&hl=en)
 nav: true
 nav_order: 1
 ---
